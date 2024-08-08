@@ -1,0 +1,14 @@
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\bin\Debug\net8.0\listTests.exe
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\bin\Debug\net8.0\listTests.deps.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\bin\Debug\net8.0\listTests.runtimeconfig.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\bin\Debug\net8.0\listTests.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\bin\Debug\net8.0\listTests.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\listTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\listTests.AssemblyInfoInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\listTests.AssemblyInfo.cs
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\listTests.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\listTests.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\refint\listTests.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\listTests.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\listTests.genruntimeconfig.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\listTests\obj\Debug\net8.0\ref\listTests.dll
